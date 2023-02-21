@@ -77,6 +77,13 @@ h1 {
 }
 }
 
+.commit {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
 body {
 transition: 1.5s;
 }
